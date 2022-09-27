@@ -10,6 +10,9 @@ $(document).ready(function(){
   });
 });
 
+https://www.w3schools.com/jquery/jquery_dom_remove.asp
+https://stackoverflow.com/questions/47824/how-do-you-remove-all-the-options-of-a-select-box-and-then-add-one-option-and-se
+
 
 function(json) {
     var options = [];
