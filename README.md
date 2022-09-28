@@ -47,6 +47,11 @@ $("#hide").click(function(){
   
   ```
   
+  
+  https://www.w3schools.com/tags/att_option_disabled.asp#:~:text=The%20disabled%20attribute%20is%20a,a%20checkbox%2C%20etc.).
+  https://www.geeksforgeeks.org/jquery-set-the-value-of-an-input-text-field/
+  https://learn.jquery.com/using-jquery-core/faq/how-do-i-get-the-text-value-of-a-selected-option/
+  
   https://stackoverflow.com/questions/20976497/jquery-change-event-on-dropdown
   https://www.w3schools.com/jquery/jquery_hide_show.asp#:~:text=Syntax%3A,%22fast%22%2C%20or%20milliseconds.
   https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide_show
