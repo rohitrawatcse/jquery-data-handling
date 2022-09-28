@@ -31,6 +31,26 @@ function(json) {
 </script> 
 
 ```
+```
+$("button").click(function(){
+  $("p").toggle();
+});
+
+$(selector).val(value)
+
+$("#hide").click(function(){
+    $("p").hide();
+  });
+  $("#show").click(function(){
+    $("p").show();
+  });
+  
+  ```
+  
+  https://stackoverflow.com/questions/20976497/jquery-change-event-on-dropdown
+  https://www.w3schools.com/jquery/jquery_hide_show.asp#:~:text=Syntax%3A,%22fast%22%2C%20or%20milliseconds.
+  https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide_show
+  https://www.geeksforgeeks.org/jquery-set-the-value-of-an-input-text-field/
 
 
 
